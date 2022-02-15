@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: How to Speak
 uid: a42b9bed-499e-353e-1d55-464656d8758c
 ---

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-tll-005-how-to-speak-january-iap-2018/bc92763ffa0dad0ecafe44967e834e16_Unzc731iCUY.pdf
+file: /media/courses/res-tll-005-how-to-speak-january-iap-2018/bc92763ffa0dad0ecafe44967e834e16_Unzc731iCUY.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: bc92763f-fa0d-ad0e-cafe-44967e834e16
