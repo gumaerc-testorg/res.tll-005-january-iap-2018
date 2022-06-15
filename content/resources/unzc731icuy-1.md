@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-tll-005-how-to-speak-january-iap-2018/bc92763ffa0dad0ecafe44967e834e16_Unzc731iCUY.pdf
+file: /courses/res-tll-005-how-to-speak-january-iap-2018/bc92763ffa0dad0ecafe44967e834e16_Unzc731iCUY.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
