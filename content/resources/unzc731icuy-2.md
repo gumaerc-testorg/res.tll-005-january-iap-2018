@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-tll-005-how-to-speak-january-iap-2018/0aab9d7eeadf50569ad7b7129ea43581_Unzc731iCUY.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

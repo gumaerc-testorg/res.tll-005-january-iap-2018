@@ -9,6 +9,7 @@ image_metadata:
   credit: (Image by Brett Paci. Photo by Azeddine Tahiri. Used with permission.)
   image-alt: Professor Winston in front of a chalkboard with writing on it.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: How to Speak image
