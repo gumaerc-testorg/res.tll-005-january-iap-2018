@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-tll-005-how-to-speak-january-iap-2018/9c908a2facaa35d7aafcdf1195166a46_Unzc731iCUY.srt
+file: /courses/res-tll-005-how-to-speak-january-iap-2018/9c908a2facaa35d7aafcdf1195166a46_Unzc731iCUY.srt
 file_size: 87586
 file_type: application/x-subrip
 learning_resource_types: []
