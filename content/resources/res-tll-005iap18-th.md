@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of Patrick Winston in front of chalkboard
-file: /courses/res-tll-005-how-to-speak-january-iap-2018/b4c92502956331b86eeba15a1f4a51e4_RES-TLL-005IAP18-th.jpg
+file: /ol-ocw-studio-app/courses/res-tll-005-how-to-speak-january-iap-2018/b4c92502956331b86eeba15a1f4a51e4_RES-TLL-005IAP18-th.jpg
 file_size: 12436
 file_type: image/jpeg
 image_metadata:
