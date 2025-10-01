@@ -22,16 +22,16 @@ Another course long taught by Professor Winston was [*6.803 The Human Intelligen
 
 ## The Greatest Computing Innovation
 
-Patrick gave [his last public talk](https://youtu.be/vCyZUiBr_ds?t=1929) at the launch event for the MIT Stephen A. Schwarzman College of Computing on Feb. 26, 2019. “What is the greatest computing innovation of all time?” he asked. His answer: “It’s us.”
+Patrick gave {{% resource_link "6a890468-acc1-424f-89e0-d9432d812e09" "his last public talk" %}} at the launch event for the MIT Stephen A. Schwarzman College of Computing on Feb. 26, 2019. “What is the greatest computing innovation of all time?” he asked. His answer: “It’s us.”
 
 ## Profiles and Tributes
 
-[*Open with a Promise, Close with a Joke*](https://www.ocw-openmatters.org/2016/07/19/open-with-a-promise-close-with-a-joke/) describes some of the teaching techniques Professor Winston used in his artificial intelligence course and elsewhere.
+{{% resource_link "898c8022-cde9-44c3-bfcc-ffa1a9bde1cd" "*Open with a Promise, Close with a Joke*" %}} describes some of the teaching techniques Professor Winston used in his artificial intelligence course and elsewhere.
 
-The [obituary for Professor Winston](http://thetech.com/2019/07/23/professor-patrick-winston-obit) in the student newspaper *The Tech* touches on some wonderful and heartfelt tributes, including this from Richard Yip ’17, a former TA for 6.034: “His classes were never just about artificial intelligence. He taught his students how to think, how to act, and how to lead a worthy, fulfilling life.”
+The {{% resource_link "78036733-6fd6-4356-ad2c-53efae2c1351" "obituary for Professor Winston" %}} in the student newspaper *The Tech* touches on some wonderful and heartfelt tributes, including this from Richard Yip ’17, a former TA for 6.034: “His classes were never just about artificial intelligence. He taught his students how to think, how to act, and how to lead a worthy, fulfilling life.”
 
-[A Memorial to Patrick H. Winston](https://web.archive.org/web/20210227002757/https://www.memoriesofpatrickwinston.com/gallery) includes history, stories, and a gallery of photos.
+{{% resource_link "07091349-e711-44e6-b837-7027e0b43d90" "A Memorial to Patrick H. Winston" %}} includes history, stories, and a gallery of photos.
 
-[*A Mentor to Remember*](https://mitadmissions.org/blogs/entry/a-mentor-to-remember-patrick-winston-1943-2019/) is a blog post where former students and others share memories of the time they spent working with Professor Winston.
+{{% resource_link "5dab4350-7517-405e-9108-0f4374d89883" "*A Mentor to Remember*" %}} is a blog post where former students and others share memories of the time they spent working with Professor Winston.
 
-[The Center for Brains, Minds and Machines](http://cbmm.mit.edu/news-events/news/professor-patrick-winston-former-director-mit%E2%80%99s-artificial-intelligence-laboratory) also offers stories and tributes.
+{{% resource_link "b261f44a-519e-4247-9dc2-7c0fc77ed713" "The Center for Brains, Minds and Machines" %}} also offers stories and tributes.
