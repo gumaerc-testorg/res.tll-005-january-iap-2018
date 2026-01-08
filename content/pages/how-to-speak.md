@@ -14,7 +14,7 @@ uid: a42b9bed-499e-353e-1d55-464656d8758c
 
 ## Background
 
-Around 40 years ago, Professor Patrick Henry Winston ’65, SM ’67, PhD ’70 gave his first talk on _How to Speak_. As he wrote in this {{% resource_link "fb265e7b-0091-4820-bfce-728e5445e32e" "Slice of MIT article from 2010" %}}:
+Around 40 years ago, Professor Patrick Henry Winston ’65, SM ’67, PhD ’70 gave his first talk on _How to Speak_. As he wrote in this [Slice of MIT article from 2010](https://alum.mit.edu/slice/how-speak):
 
 Robert Sjoberg, SM ’81, made me do it.
 
